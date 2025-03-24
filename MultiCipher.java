@@ -1,9 +1,6 @@
 /*
  * Veer Desai
  * 1/20/2025
- * CSE 123
- * P0: Ciphers
- * TA: Isayiah Lim
  */
 import java.util.List;
 
