@@ -1,5 +1,4 @@
 /*
- * Veer Desai
  * 1/20/2025
  */
 import java.util.List;
